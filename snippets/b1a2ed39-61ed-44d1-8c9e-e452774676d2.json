@@ -1,6 +1,6 @@
 {
   "uuid": "b1a2ed39-61ed-44d1-8c9e-e452774676d2",
-  "name": "charset @css",
+  "name": "@charset \"UTF-8\"; @css",
   "description": "",
   "extraSearchTerms": [],
   "tags": [],
