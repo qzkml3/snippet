@@ -1,0 +1,11 @@
+{
+  "uuid": "e4c58865-a0c3-4431-85b6-52dce2d09923",
+  "name": "df.text",
+  "description": "",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "\u003ctr\u003e\r\n\t\t\t\t\t\t\t\t\u003cth scope\u003d\"row\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003clabel\u003e${필드이름}\u003c/label\u003e\r\n\t\t\t\t\t\t\t\t\u003c/th\u003e\r\n\t\t\t\t\t\t\t\t\u003ctd\u003e\r\n\t\t\t\t\t\t\t\t\t\u003cinput type\u003d\"text\" name\u003d\"${}\" style\u003d\"width: ${10}em;\"\u003e\r\n\t\t\t\t\t\t\t\t\t\u003c!-- \u003cspan class\u003d\"dbfield_explain\"\u003e설명\u003c/span\u003e --\u003e\r\n\t\t\t\t\t\t\t\t\u003c/td\u003e\r\n\t\t\t\t\t\t\t\u003c/tr\u003e",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}
